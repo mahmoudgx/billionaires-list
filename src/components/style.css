@@ -1,0 +1,11 @@
+.page-link{
+        border-color:white !important;   
+
+}
+
+.page-item.active{
+.page-link{
+    border-color:yellow !important;   
+    
+}
+}
