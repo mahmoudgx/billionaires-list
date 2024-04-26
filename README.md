@@ -21,13 +21,17 @@ A step by step series of examples that tell you how to get a development environ
 
 git clone https://github.com/mahmoudgx/billionaires-list
 
-2. Install NPM packages
+2. Open Project File
+
+cd billionaires-list
+
+3. Install NPM packages
 
 npm install
 
-3. Start the server
+4. Start the server
 
-npm start
+npm run
 
 
 screenshots:
