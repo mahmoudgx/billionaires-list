@@ -19,7 +19,7 @@ A step by step series of examples that tell you how to get a development environ
 
 1. Clone the repo
 
-git clone [https://](https://github.com/mahmoudgx/billionaires-list)
+git clone https://github.com/mahmoudgx/billionaires-list
 
 2. Install NPM packages
 
@@ -30,7 +30,7 @@ npm install
 npm start
 
 
-screenshot:
+screenshots:
 
 ![billionaireindex netlify app_(Nest Hub Max)](https://github.com/mahmoudgx/billionaires-list/assets/21027024/158e136e-9d57-4c41-b23b-146f5dd907e8)
 
